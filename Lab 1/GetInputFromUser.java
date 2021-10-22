@@ -12,7 +12,7 @@ System.out.println ("enter a float");
 b = in.nextFloat();
 System.out.println ("you entered a float"+b);
 System.out.println ("enter a string");
-s = in.nextLine();
+s = in.next();
 System.out.println ("you entered a string"+s);
 }
 }
